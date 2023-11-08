@@ -1,0 +1,10 @@
+# ninja log v5
+1783	3677	7211634049416985	TestProject.exe	3540e1d74b4c19d0
+217	822	7199424473301114	CMakeFiles/TestProject.dir/src/Vector2.cpp.obj	3509f8993b2e186d
+231	2132	7211614850496993	CMakeFiles/TestProject.dir/src/Player.cpp.obj	a0db295ab61d3746
+127	4078	7211632234894624	CMakeFiles/TestProject.dir/src/main.cpp.obj	aa6975d763fe73e8
+16	1781	7211634030535380	CMakeFiles/TestProject.dir/src/Game.cpp.obj	6eb5a99023ffa72c
+430	4465	7211615545131842	CMakeFiles/TestProject.dir/src/Camera.cpp.obj	9d6fc1c5587fca20
+829	5932	7211577752195538	CMakeFiles/TestProject.dir/src/GameObject.cpp.obj	167ce4b2f10ec8a7
+328	4009	7211632234196489	CMakeFiles/TestProject.dir/src/Bullet.cpp.obj	fd05dc23b80930e0
+511	4070	7211632234794891	CMakeFiles/TestProject.dir/src/Turret.cpp.obj	50283def80e1c9f0
