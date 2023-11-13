@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/cj2-cornelius/OneDrive - UWE Bristol/TestProject
+# Install script for directory: C:/Users/cj2-cornelius/OneDrive - UWE Bristol/Year 2/C++/Test_Project/TestProject
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/cj2-cornelius/OneDrive - UWE Bristol/TestProject/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/cj2-cornelius/OneDrive - UWE Bristol/Year 2/C++/Test_Project/TestProject/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

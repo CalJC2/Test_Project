@@ -1,10 +1,12 @@
 # ninja log v5
-1783	3677	7211634049416985	TestProject.exe	3540e1d74b4c19d0
-217	822	7199424473301114	CMakeFiles/TestProject.dir/src/Vector2.cpp.obj	3509f8993b2e186d
-231	2132	7211614850496993	CMakeFiles/TestProject.dir/src/Player.cpp.obj	a0db295ab61d3746
-127	4078	7211632234894624	CMakeFiles/TestProject.dir/src/main.cpp.obj	aa6975d763fe73e8
-16	1781	7211634030535380	CMakeFiles/TestProject.dir/src/Game.cpp.obj	6eb5a99023ffa72c
-430	4465	7211615545131842	CMakeFiles/TestProject.dir/src/Camera.cpp.obj	9d6fc1c5587fca20
-829	5932	7211577752195538	CMakeFiles/TestProject.dir/src/GameObject.cpp.obj	167ce4b2f10ec8a7
-328	4009	7211632234196489	CMakeFiles/TestProject.dir/src/Bullet.cpp.obj	fd05dc23b80930e0
-511	4070	7211632234794891	CMakeFiles/TestProject.dir/src/Turret.cpp.obj	50283def80e1c9f0
+316	1571	7211640496720246	CMakeFiles/TestProject.dir/src/Vector2.cpp.obj	7247f1800359778c
+752	1915	7211640500220888	CMakeFiles/TestProject.dir/src/GameState.cpp.obj	b7fcf847a02d0778
+1007	2082	7211640501776730	CMakeFiles/TestProject.dir/src/Obstacles.cpp.obj	ec332eb3ffef7064
+419	2685	7211640507870431	CMakeFiles/TestProject.dir/src/GameObject.cpp.obj	bbf72da0e3a74b83
+1	2693	7211640507880409	CMakeFiles/TestProject.dir/src/main.cpp.obj	986455dd5a815056
+212	2699	7211640507910338	CMakeFiles/TestProject.dir/src/Player.cpp.obj	88c390e97f2e3d7b
+108	2703	7211640507970184	CMakeFiles/TestProject.dir/src/Game.cpp.obj	9605c7f03e87b3e6
+520	2721	7211640508279349	CMakeFiles/TestProject.dir/src/Bullet.cpp.obj	1f9f5ba08a43ef24
+624	2828	7211640509386376	CMakeFiles/TestProject.dir/src/Turret.cpp.obj	37bfa8962fb4ee89
+884	2915	7211640510214166	CMakeFiles/TestProject.dir/src/Camera.cpp.obj	28bdc454d8b2d3c1
+2915	4863	7211640529636946	TestProject.exe	39cad6767c854acc
